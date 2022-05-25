@@ -1,9 +1,7 @@
 # Welcome to FrameWorkRBLX
-We make roblox exploits scripts. (Well, only SomeNiceTables does)
+We make roblox exploits scripts.
 
 We try our best to make very useful scripts for the roblox exploit community.
-
-Currently owned by [SomeNiceTables](https://github.com/SomeNiceTables)
 
 
 <!--
